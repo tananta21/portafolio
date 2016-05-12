@@ -79,8 +79,8 @@
     text-align: center;
 }
 /*.unirme:hover{*/
-    /*!*font-size: 1.1rem;*!*/
-    /*background: #f66509;*/
+/*!*font-size: 1.1rem;*!*/
+/*background: #f66509;*/
 /*}*/
 .section1{
     display: flex;
@@ -367,4 +367,19 @@
     text-align: center;
     color: #0f0f0f;
     font-family: 'Arial Black';
+}
+
+.text_lang{
+    transition: 0.3s;
+}
+.text_lang:hover{
+    color: white;
+    font-weight: bold;
+}
+.text_gest{
+    transition: 0.3s;
+}
+.text_gest:hover{
+    color: white;
+    font-weight: bold;
 }
