@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>tananta|portafolio</title>
+    <title>Tananta|Portafolio </title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/font-awesome.css">
@@ -47,13 +47,13 @@
             </div>
             <div class="unirme">
                 <h2>Mis Redes sociales</h2>
-                <a class="redes_sociales" href=""><i class="fa fa-facebook "></i></a>
-                <a class="redes_sociales" href=""><i class="fa fa-twitter"></i></a>
-                <a class="redes_sociales" href=""><i class="fa fa-youtube "></i></a>
+                <a class="redes_sociales" href="https://www.facebook.com/kevinanthony.tanantadelaguila"><i class="fa fa-facebook "></i></a>
+                <a class="redes_sociales" href="https://twitter.com/terre_kevincito"><i class="fa fa-twitter"></i></a>
+                <a class="redes_sociales" href="https://www.youtube.com/channel/UCAJnO78i8eaLU_R1cQsk4Tw"><i class="fa fa-youtube "></i></a>
                 <a class="redes_sociales" href=""><i class="fa fa-snapchat "></i></a>
-                <a class="redes_sociales" href=""><i class="fa fa-google-plus "></i></a>
-                <a class="redes_sociales" href=""><i class="fa fa-instagram "></i></a>
-                <a class="redes_sociales" href=""><i class="fa fa-github "></i></a>
+                <a class="redes_sociales" href="https://plus.google.com/u/0/107318580013098532866/posts"><i class="fa fa-google-plus "></i></a>
+                <a class="redes_sociales" href="https://www.instagram.com/kevin_terre21/"><i class="fa fa-instagram "></i></a>
+                <a class="redes_sociales" href="https://github.com/tananta21"><i class="fa fa-github "></i></a>
                 <a class="redes_sociales" href=""><i class="fa fa-linkedin "></i></a>
 
             </div>
@@ -239,13 +239,13 @@
                     <input class="form_submit" type="submit" value="enviar" >
                 </form>
                 <h3>No olvides mis Redes sociales</h3>
-                <a class="redes_sociales_fo" href=""><i class="fa fa-facebook "></i></a>
-                <a class="redes_sociales_fo" href=""><i class="fa fa-twitter"></i></a>
-                <a class="redes_sociales_fo" href=""><i class="fa fa-youtube "></i></a>
+                <a class="redes_sociales_fo" href="https://www.facebook.com/kevinanthony.tanantadelaguila"><i class="fa fa-facebook "></i></a>
+                <a class="redes_sociales_fo" href="https://twitter.com/terre_kevincito"><i class="fa fa-twitter"></i></a>
+                <a class="redes_sociales_fo" href="https://www.youtube.com/channel/UCAJnO78i8eaLU_R1cQsk4Tw"><i class="fa fa-youtube "></i></a>
                 <a class="redes_sociales_fo" href=""><i class="fa fa-snapchat "></i></a>
-                <a class="redes_sociales_fo" href=""><i class="fa fa-google-plus "></i></a>
-                <a class="redes_sociales_fo" href=""><i class="fa fa-instagram "></i></a>
-                <a class="redes_sociales_fo" href=""><i class="fa fa-github "></i></a>
+                <a class="redes_sociales_fo" href="https://plus.google.com/u/0/107318580013098532866/posts"><i class="fa fa-google-plus "></i></a>
+                <a class="redes_sociales_fo" href="https://www.instagram.com/kevin_terre21/"><i class="fa fa-instagram "></i></a>
+                <a class="redes_sociales_fo" href="https://github.com/tananta21"><i class="fa fa-github "></i></a>
                 <a class="redes_sociales_fo" href=""><i class="fa fa-linkedin "></i></a>
                 <div style="padding-top: 2rem;">Copyright © 2016-2018 Kevin Anthony Tananta Del Aguila.</div>
             </div>
