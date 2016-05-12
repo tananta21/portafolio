@@ -170,6 +170,7 @@
     }
     .section1_figure{
         width: 90%;
+        padding-left: 0rem;
     }
     .lenguajes{
         display: flex;
@@ -193,8 +194,15 @@
         margin: 2rem;
         text-align: center;
     }
+
     .section1_second_2{
         width: 90%;
+        padding: 0rem;
+    }
+    .section1_text{
+        width: 100%;
+        padding: 0rem;
+        font-size: 2.2rem;
     }
     .section2{
         display: flex;
@@ -364,6 +372,7 @@
     }
     .section1_figure{
         width: 90%;
+        padding-left: 0rem;
     }
     .lenguajes{
         display: flex;
@@ -498,22 +507,22 @@
         color: orange;
     }
 
-    .link_footer {
-        margin-right: 1rem;
-        text-decoration: underline;
-        color: white;
-        transition: 0.4s;
-        font-size: 0.8rem;
+    .redes_sociales_fo{
+        font-size: 1.9rem;
     }
-
-    .link_footer:hover {
+    .redes_sociales:hover {
+        font-size: 2rem;
         color: orange;
     }
-    .redes_sociales_fo{
-        font-size: 1.3rem;
+
+    .section1_second_2{
+        width: 90%;
+        padding: 0rem;
     }
     .section1_text{
-        display: none;
+        width: 100%;
+        padding: 0rem;
+        font-size: 2rem;
     }
     .figure_header{
         width: 50%;
