@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Tananta|Portafolio </title>
+    <title>Tananta|Portafolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/font-awesome.css">
@@ -180,15 +180,21 @@
         <h2 class="section4_name" >ESTOS SON ALGUNOS DE MIS PROYECTOS</h2>
         <h3 class="section4_text" >Sitios Webs Y Aplicaciones</h3>
         <div class="section4_bloque1">
-            <figure class="figure_section4" ><img class="section4_img" src="img/fotos/im1.jpg" alt=""></figure>
-            <figure class="figure_section4" ><img class="section4_img" src="img/fotos/im2.jpg" alt=""></figure>
-            <figure class="figure_section4" ><img class="section4_img" src="img/fotos/im3.jpg" alt=""></figure>
-            <figure class="figure_section4" ><img class="section4_img" src="img/fotos/im4.jpg" alt=""></figure>
-            <figure class="figure_section4" ><img class="section4_img" src="img/fotos/im5.jpg" alt=""></figure>
-            <figure class="figure_section4" ><img class="section4_img" src="img/fotos/im6.jpg" alt=""></figure>
+            <figure class="figure_section4" onclick="verIndex();"><img class="section4_img" src="img/fotos/im1.jpg" alt=""></figure>
+            <figure class="figure_section4" onclick="verIndex();"><img class="section4_img" src="img/fotos/im2.jpg" alt=""></figure>
+            <figure class="figure_section4" onclick="verIndex();"><img class="section4_img" src="img/fotos/im3.jpg" alt=""></figure>
+            <figure class="figure_section4" onclick="verIndex();"><img class="section4_img" src="img/fotos/im4.jpg" alt=""></figure>
+            <figure class="figure_section4" onclick="verIndex();"><img class="section4_img" src="img/fotos/im5.jpg" alt=""></figure>
+            <figure class="figure_section4" onclick="verIndex();"><img class="section4_img" src="img/fotos/im6.jpg" alt=""></figure>
 
         </div>
     </section>
+    <script type="text/javascript">
+        function verIndex()
+        {
+            alert("DISCULPE, Estamos en mantenimiento :D");
+        }
+    </script>
 
     <section class="section4">
         <h2 class="section4_name" >CONOCE MAS SOBRE MI</h2>
