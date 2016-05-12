@@ -24,7 +24,7 @@
                         <li><a href="#">Inicio</a></li>
                         <li><a href="#">Sobre mi</a></li>
                         <li><a href="#">Encoder</a></li>
-                        <li><a href="#">conoceme</a></li>
+                        <li><a href="#">acerca</a></li>
                         <li><a href="#">contacto</a></li>
                     </ul>
                 </nav>
