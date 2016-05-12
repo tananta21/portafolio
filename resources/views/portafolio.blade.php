@@ -86,17 +86,17 @@
             <h2 class="lang">Conocimientos de los Principales Lenguajes de Programacion</h2>
             <div class="section1_second lenguajes">
                 <div class="type_lang" style="border-radius:5%; padding: 2rem; background: mediumpurple">
-                    <h3>PHP</h3>
+                    <h3 class="text_lang">PHP</h3>
                 </div>
                 <div class="type_lang" style="border-radius:5%; padding: 2rem; background: palevioletred ">
-                    <h3>JAVA</h3>
+                    <h3 class="text_lang">JAVA</h3>
                 </div>
                 <div class="type_lang" style="border-radius:5%; padding: 2rem; background: greenyellow">
-                    <h3>PHYTON</h3>
+                    <h3 class="text_lang">PHYTON</h3>
                 </div>
 
                 <div class="type_lang" style="border-radius:5%; padding: 2rem; background: darkseagreen">
-                    <h3>NODE JS</h3>
+                    <h3 class="text_lang">NODE JS</h3>
                 </div>
 
             </div>
@@ -105,13 +105,13 @@
             <h2 class="lang">Y en los Principales Manejadores de base de datos</h2>
             <div class="section1_second gestores">
                 <div class="type_ges" style="border-radius:5%; padding: 2rem; background: coral">
-                    <h3>MYSQL</h3>
+                    <h3 class="text_gest">MYSQL</h3>
                 </div>
                 <div class="type_ges" style="border-radius:5%; padding: 2rem; background: silver ">
-                    <h3>SQL SERVER</h3>
+                    <h3 class="text_gest">SQL SERVER</h3>
                 </div>
                 <div class="type_ges" style="border-radius:5%; padding: 2rem; background: #336791">
-                    <h3>POSTGRE SQL</h3>
+                    <h3 class="text_gest">POSTGRE SQL</h3>
                 </div>
 
             </div>
